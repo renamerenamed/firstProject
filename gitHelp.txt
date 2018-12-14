@@ -1,0 +1,12 @@
+Git status
+Git add
+Git commit -m "Message body"
+
+
+Git checkout -- file.txt (откатить из stage) 
+
+.gitignore
+
+Git log -1 -p
+
+Git diff --staged
