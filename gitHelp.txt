@@ -2,6 +2,8 @@ Git status
 Git add
 Git commit -m "Message body"
 
+GITHUB
+Git push origin
 
 Git checkout -- file.txt (откатить из stage) 
 
